@@ -1,3 +1,3 @@
 # QuizApp
-# This is an Android App that basically contains 5 questions 4 of which are Computer Science related and the 1 general knowlegde question.
-#
+# This is a simple Android Quiz App that tests for a users knowledge on simple Computer Science and General Knowledge questions.
+# The link to its APK is https://drive.google.com/open?id=1N1tyT6iEgGC_mGDQRv46sMi8MVDzZJ_C
